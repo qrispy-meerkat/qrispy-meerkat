@@ -1,6 +1,6 @@
 - 👋 This is me. (@qrispy-meerkat)
 - 👀 I’m interested in human interaction.
-- 🌱 I’m currently learning MATLAB and Python
+- 🌱 I’m currently learning MATLAB and Python.
 - 💞️ I’m not currently looking to collaborate on projects.
 - 📫 How to reach me. Maybe don't (unless you were linked here directly).
 
